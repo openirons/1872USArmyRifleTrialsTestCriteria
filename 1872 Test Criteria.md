@@ -34,6 +34,7 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 
 ## Rules
 * The piece to be first fired ten rounds by the exhibitor, or with a lanyard, as a test of safety.
+* Representatives of the gun(s) are forbidden from handling the gun(s) at any time after the preliminary test for safety.
 * The firing to be then continued according to the rules annexed, by an employee of the Armory, or solider detailed by the War Department. The record to be based upon this firing, though exhibitors may have the privilege of displaying the powers of their guns if desired, and of having their performance noted in the record.
 * The service-cartridge to be used in all cases where the gun is chambered for it, except in the special trials made by exhibiors.
 * No person will be admitted to the firing ground but the agents or exhibitors of the gun immediately under trial, and such other persons as may be specifically invited by the Board.
@@ -47,5 +48,5 @@ Also such other tests by firing and exposure as the Board my desire to apply.
    2. Cut at intervals around the rim.
    3. With a longitudinal cut the whole length of the cartridge from the rim up. A fresh piece of white paper marked with the number of the gun being laid over the breech to observe the escape of gas, if any occurs.
 5. *Dust* - The piece to be exposed in a box prepared for that purpose to blast of find sand-dust for __ minutes; to be removed, fired 50 rounds, replaced for 5 minutes, removed and fired 50 rounds more.
-6. *Rust* - The breech mechanism and receiver to be cleansed of grease and the chamber of the barrel greased and plugged, the butt of the gun to be inserted into the height of the chamber in brine for 10 minutes, exposed for two days to the open air standing in a rack, and then fired 50 rounds.
+6. *Rust* - The breech mechanism and receiver to be cleansed of grease and the chamber of the barrel greased and plugged, the butt of the gun to be inserted into the height of the chamber in a solution of sal-ammoniac for 10 minutes, exposed for two days to the open air standing in a rack, and then fired 50 rounds.
 7. *Excessive charges* - To be fired once with 85 grains of powder and one ball of 450 grains of lead; once with 90 grains and one ball; and once with 90 grains and two balls. The piece to be closely examined after each discharge.
