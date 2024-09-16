@@ -11,8 +11,15 @@ The "Board for Selecting a Breech-System for Muskets and Carbines" (the "Board")
 2) Document the evolution of the test criteria during the Trials.
 
 ## Method
-A Branch will be created and named for the date upon which changes were made.
-Each change to the criteria will be submitted as a PR named for the date on which the changes were documented in Board's minutes.
+For changes to the test critiera:
 
-# Source Material
+A Branch will be created and named for the date upon which changes were made.
+
+Each Commit will follow the naming convention:
+```Plain
+<Original Date of Change> - <Summary of Change>
+```
+Each Commit will be merged by by a Pull Request named for the date on which the changes were documented in Board's minutes. The PR body will include the members present.
+
+## Source Material
 All information here is taken from Ordnance Memoranda 15, "Report of the Board of Officers Appointed in Pusuance of the Act of Congress Approved June 6, 1872".
