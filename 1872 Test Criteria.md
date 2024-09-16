@@ -38,6 +38,7 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 * The firing to be then continued according to the rules annexed, by an employee of the Armory, or solider detailed by the War Department. The record to be based upon this firing, though exhibitors may have the privilege of displaying the powers of their guns if desired, and of having their performance noted in the record.
 * The service-cartridge to be used in all cases where the gun is chambered for it, except in the special trials made by exhibiors.
 * No person will be admitted to the firing ground but the agents or exhibitors of the gun immediately under trial, and such other persons as may be specifically invited by the Board.
+* After the rusting test the guns may be cleaned in the shop; prior to that no one should clean them but the employee. The only cleaning requisite during the experiments, and prior to rusting, is to oil and wipe the breech-mechanism, and wipe out the barrel. No cleaning or wiping should be done during the experiments, unless in the presence of the Board, or by special direction.
 
 ## Tests
 1. *Defective cartridges* - Each gun to be fired once with each of the following defective cartridges:
