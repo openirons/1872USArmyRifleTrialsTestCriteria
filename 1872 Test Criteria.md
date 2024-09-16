@@ -1,3 +1,5 @@
+A form will be filled out by persons presenting sample guns for examination by the Board.
+
 Upon receipt of the gun (by the Board) let the inventor:
 1. Explain it.
 2. Take it apart.
