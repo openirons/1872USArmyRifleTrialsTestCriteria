@@ -42,10 +42,10 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 * Supplemental severe tests may not be conducted on a gun which had not endured the preliminary trials.
 
 ## Tests
-1. *Defective cartridges* - Each gun to be fired once with each of the following defective cartridges:
+1. *Defective cartridges* - A fresh piece of white paper marked with the number of the gun [will be] laid over the breech to observe the escape of gas, if any occurs [for each of the following three tests]. Each gun to be fired once with each of the following defective cartridges:
    1. Cross-filed on head to nearly the thickness of the metal.
    2. Cut at intervals around the rim.
-   3. With a longitudinal cut the whole length of the cartridge from the rim up. A fresh piece of white paper marked with the number of the gun being laid over the breech to observe the escape of gas, if any occurs.
+   3. With a longitudinal cut the whole length of the cartridge from the rim up. 
 2. *Rapidity with aim* - The number of shots which, fired in one minute, strike a target 6 feet by 2 feet at a distance of 100 feet. Any cartridges missing fire [misfires] in this or other tests to be tried with a prick-punch, or opened to ascertain the cause of failure. The test to be begun with an empty chamber or magazine, the cartridges to be disposed at will on a table.
 3. *Rapidity at will* - The number of shots that can be fired in one minute, irrespective of aim.
 4. *Endurance* - Each gun to be fired 500 continuous rounds, without cleaning. The state of the breech-mechanism to be examined at the end of every 50-rounds.
