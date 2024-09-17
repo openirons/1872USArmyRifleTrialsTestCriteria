@@ -58,10 +58,15 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 2. To be rusted for 4 days after immersion as before and then fired 5 rounds with the service-cartridge; then without cleaning to be fired 5 rounds with 120 grains powder and a ball weighing 1,200 grains; the gun to stand twenty-four hours after firing, without cleaning, and then to be thoroughly examined.
 3. Facility of manipulation by members of the Board.
 
-## Rules Governing the Trial of the Arms Altered to Cal. 45
+## Supplemental Trial of the Arms Altered to Cal. 45
 1. *Rapditiy of Fire* - The comparative rapidity of fire of each gun shall be determined by taking the average time of five successive trials, which shall be made by the same individual, at intervals of 20 minutes, and which shall consist of firing, with aim, from service cartridge-box No. 2, suspended from the waist-belt, 24 cartridges of cal. .45. The guns to be tested at the rate of one each working day.
 
-## Rules Governing the Testing of Rapidity for the Magazine Guns
+## Supplemental Tests for Rapidity of Fire for the Magazine Guns
 1. *Ward-Burton* - Time required to fire three magazinefuls, starting with 7 cartridges in the magazine and 1 in the chamber, inlcuding the time required to charge the magazine twice, the cartridges being placed in rows of 7 each in a block lying on the table.
 2. *Springfield with Lieut. Metcalfe's Detachable Magazine* - Time required to fire 10 shots, caliber .45, from Lieutenant Metcalfe's detachable magazine, fixed upon the gun and open.
 3. *Dr. Elliot's Magazine Cartridge-Box* - Time required to fire 24 shots from Dr. Elliot's magazine cartridge-box, caliber .45, using the Springfield arm. Same test with the Elliot arm. Same test with the Remington arm. 
+
+## Supplemental Tests for Facility of Manipulation By Persons Not Experts
+1. A party of 10 enlisted men comprised of 5 old soldiers and 5 new recruits were supplied for testing.
+2. The men having been familiarized by the expenditure of three cartridges, the regular firing was conducted by each man in turn, firing from each of the guns 12 shots, taken from the cartridge-box used in the preceding experiments. The firers had an opportunity to rest between the trials, during the use of the same gun, or of the succeeding one, by their comrades.
+3. The trial in one party with each gun was completed before the next one was taken up, giving hte gun a chance to cool before it was fired again. 
