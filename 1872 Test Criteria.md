@@ -56,3 +56,6 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 1. To be fired with two defective cartridges Nos. 1 and 2, and then to be dusted five minutes, the mechanism being in the mouth of the blow-pipe and closed, the hammer being at half-cock; then to be fired 6 shots, the last two defective Nos. 1 and 2, then without cleaning to be dusted with the breech open and fired 4 shots. The piece to be freed from dust only by pounding or wiping with the bare hand.
 2. To be rusted for 4 days after immersion as before and then fired 5 rounds with the service-cartridge; then without cleaning to be fired 5 rounds with 120 grains powder and a ball weighing 1,200 grains; the gun to stand twenty-four hours after firing, without cleaning, and then to be thoroughly examined.
 3. Facility of manipulation by members of the Board.
+
+## Rules Governing the Trial of the Arms Altered to Cal. 45
+1. *Rapditiy of Fire* - The comparative rapidity of fire of each gun shall be determined by taking the average time of five successive trials, which shall be made by the same individual, at intervals of 20 minutes, and which shall consist of firing, with aim, from service cartridge-box No. 2, suspended from the waist-belt, 24 cartridges of cal. .45. The guns to be tested at the rate of one each working day.
