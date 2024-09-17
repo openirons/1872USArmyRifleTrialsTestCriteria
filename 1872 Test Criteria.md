@@ -49,7 +49,7 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 2. *Rapidity with aim* - The number of shots which, fired in one minute, strike a target 6 feet by 2 feet at a distance of 100 feet. Any cartridges missing fire [misfires] in this or other tests to be tried with a prick-punch, or opened to ascertain the cause of failure. The test to be begun with an empty chamber or magazine, the cartridges to be disposed at will on a table.
 3. *Rapidity at will* - The number of shots that can be fired in one minute, irrespective of aim.
 4. *Endurance* - Each gun to be fired 500 continuous rounds, without cleaning. The state of the breech-mechanism to be examined at the end of every 50-rounds.
-5. *Dust* - The piece to be exposed in a box prepared for that purpose to blast of find sand-dust for __ minutes; to be removed, fired 20 rounds, replaced for 5 minutes, removed and fired 20 rounds more.
+5. *Dust* - The piece to be exposed in a box prepared for that purpose to blast of find sand-dust for 2 minutes; to be removed, fired 20 rounds, replaced for 2 minutes, removed and fired 20 rounds more.
 6. *Rust* - The breech mechanism and receiver to be cleansed of grease and the chamber of the barrel greased and plugged, the butt of the gun to be inserted into the height of the chamber in a solution of sal-ammoniac for 10 minutes, exposed for two days to the open air standing in a rack, and then fired 20 rounds.
 7. *Excessive charges* - To be fired once with 85 grains of powder and one ball of 450 grains of lead; once with 90 grains and one ball; and once with 90 grains and two balls. The piece to be closely examined after each discharge.
 
