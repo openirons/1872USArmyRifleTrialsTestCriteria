@@ -51,3 +51,8 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 5. *Dust* - The piece to be exposed in a box prepared for that purpose to blast of find sand-dust for __ minutes; to be removed, fired 20 rounds, replaced for 5 minutes, removed and fired 20 rounds more.
 6. *Rust* - The breech mechanism and receiver to be cleansed of grease and the chamber of the barrel greased and plugged, the butt of the gun to be inserted into the height of the chamber in a solution of sal-ammoniac for 10 minutes, exposed for two days to the open air standing in a rack, and then fired 20 rounds.
 7. *Excessive charges* - To be fired once with 85 grains of powder and one ball of 450 grains of lead; once with 90 grains and one ball; and once with 90 grains and two balls. The piece to be closely examined after each discharge.
+
+## Supplemental Severe Tests for the Trial of Such Arms as Might Be Reserved for Further Experiments
+1. To be fired with two defective cartridges Nos. 1 and 2, and then to be dusted five minutes, the mechanism being in the mouth of the blow-pipe and closed, the hammer being at half-cock; then to be fired 6 shots, the last two defective Nos. 1 and 2, then without cleaning to be dusted with the breech open and fired 4 shots. The piece to be freed from dust only by pounding or wiping with the bare hand.
+2. To be rusted for 4 days after immersion as before and then fired 5 rounds with the service-cartridge; then without cleaning to be fired 5 rounds with 120 grains powder and a ball weighing 1,200 grains; the gun to stand twenty-four hours after firing, without cleaning, and then to be thoroughly examined.
+3. Facility of manipulation by members of the Board.
