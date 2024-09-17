@@ -18,6 +18,13 @@ To review how the tests changed between September 1872 and May 1873, view the "1
 ## Source Material
 All information here is taken from *Ordnance Memoranda 15*, "Report of the Board of Officers Appointed in Persuance of the Act of Congress Approved June 6, 1872".
 
+## Notes on Transcription
+Attempts have been made to preserve the language, including typos and archaic spellings, in the original report whenever possible.
+
+Transcriber included remarks in brackets when doing so illuminated the content, e.g. clarifying the subject of a statement.
+
+Reformatting of the content, including the use of bullet points, and headings, has been done to improve structure, readability, and clarity.
+
 ## Method
 For changes to the test critiera:
 
