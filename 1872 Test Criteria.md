@@ -60,3 +60,8 @@ Also such other tests by firing and exposure as the Board my desire to apply.
 
 ## Rules Governing the Trial of the Arms Altered to Cal. 45
 1. *Rapditiy of Fire* - The comparative rapidity of fire of each gun shall be determined by taking the average time of five successive trials, which shall be made by the same individual, at intervals of 20 minutes, and which shall consist of firing, with aim, from service cartridge-box No. 2, suspended from the waist-belt, 24 cartridges of cal. .45. The guns to be tested at the rate of one each working day.
+
+## Rules Governing the Testing of Rapidity for the Magazine Guns
+1. *Ward-Burton* - Time required to fire three magazinefuls, starting with 7 cartridges in the magazine and 1 in the chamber, inlcuding the time required to charge the magazine twice, the cartridges being placed in rows of 7 each in a block lying on the table.
+2. *Springfield with Lieut. Metcalfe's Detachable Magazine* - Time required to fire 10 shots, caliber .45, from Lieutenant Metcalfe's detachable magazine, fixed upon the gun and open.
+3. *Dr. Elliot's Magazine Cartridge-Box* - Time required to fire 24 shots from Dr. Elliot's magazine cartridge-box, caliber .45, using the Springfield arm. Same test with the Elliot arm. Same test with the Remington arm. 
